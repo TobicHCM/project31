@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3083430859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: adc96f647ace546958c1ba68b1ef45bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e19a299b959f5b712c049d7eedf4f33
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Points/p20.JPG
+Dependencies: []
